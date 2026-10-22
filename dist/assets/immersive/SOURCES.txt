@@ -1,0 +1,42 @@
+BanG Dream! Our Notes original immersive garage scenes
+
+Source site: https://ournotes.stonebg.cn/
+Source code: https://github.com/stonesver/otonote
+Source license: https://github.com/stonesver/otonote/blob/main/LICENSE (MIT)
+Game artwork and animation: ©BanG Dream! Project ©FROMTOKYO ©bushiroad All Rights Reserved.
+
+Scene 40001 / 沢海奏多 Kanata Sawami / いつもの光景
+Page: https://ournotes.stonebg.cn/jp/zh-CN/immersive/40001/
+Resource root: https://ournotes.stonebg.cn/content/releases/c0f670d94a125cc55d5b247c/public/immersive/scene-40001-v1/
+Original game Spine home_start animation, duration 4.0167 seconds.
+Kanata click callback ID: "scene-kanata".
+
+Scene 40002 / 汐見蛍 Hotaru Shiomi / 始まる、その前に
+Page: https://ournotes.stonebg.cn/jp/zh-CN/immersive/40002/
+Resource root: https://ournotes.stonebg.cn/content/releases/c0f670d94a125cc55d5b247c/public/immersive/scene-40002-v1/
+Original game Spine home_start animation, duration 4 seconds.
+Hotaru click callback ID: 16 (number).
+
+Bundled renderer:
+https://ournotes.stonebg.cn/app/releases/a75f978b6acdefaadc1cf8ef/chunks/immersive-renderer-N6QQMW2Y.js
+One adjacent dependency:
+https://ournotes.stonebg.cn/app/releases/a75f978b6acdefaadc1cf8ef/chunks/chunk-EOUF7VOX.js
+
+Profiles copied as data from source controller:
+https://ournotes.stonebg.cn/app/releases/a75f978b6acdefaadc1cf8ef/scripts/script-39-6PU2F7MR.js
+
+The custom garage-loader.js handles local file references, loading progress,
+camera profiles, original character hit regions, looping, and pause/dispose.
+Import loadOriginalGarage(container, 40001 or 40002, options).
+Container requires nonzero width and height. Renderer returns a canvas viewer.
+Use viewer.setPaused(true) while hidden; false resumes. dispose() frees WebGL.
+The loader repeats the original home_start sequence after a 1.8-second rest.
+Use loop:false if the scene should play once, as in the archive viewer.
+
+Underlying dependencies include Three.js and Esoteric Software Spine Runtimes.
+Keep their corresponding license files and the Otonote license with distribution.
+Spine license source: https://raw.githubusercontent.com/EsotericSoftware/spine-runtimes/4.2/LICENSE
+
+Research date: 2026-10-22. Assets were visually checked against the public scene
+posters; original skeleton files identify Spine 4.2.40 and home_start animation.
+Browser rendering and integration need verification by the owning site task.

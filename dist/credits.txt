@@ -1,0 +1,26 @@
+millsage · 重逢的间隙
+An unofficial fan-made interactive experience.
+
+Game characters, artwork, models, textures and animations:
+BanG Dream! Our Notes — © BanG Dream! Project © FROMTOKYO © bushiroad.
+Official project: https://bang-dream.com/artist/millsage/
+
+Public resource archive and web renderers:
+OtoNote — https://ournotes.stonebg.cn/
+Source: https://github.com/stonesver/otonote
+MIT license: assets/OTONOTE-LICENSE.txt
+Scene sources and bundled library licenses: assets/immersive/SOURCES.txt
+Three.js license: assets/immersive/THREE-LICENSE.txt
+Spine runtime license: assets/immersive/SPINE-RUNTIME-LICENSE.txt
+
+Original garage scenes: 40001 (Kanata), 40002 (Hotaru).
+These use original game Spine home_start animation data and scene geometry.
+The browser replays the original clips; page transitions and synchronized
+portrait breathing/blinking are authored separately for this experience.
+
+Live2D Cubism Core: https://www.live2d.com/eula/live2d-proprietary-software-license-agreement_en.html
+Cubism SDK: https://www.live2d.com/sdk/license/
+PIXI: https://github.com/pixijs/pixijs/blob/dev/LICENSE
+pixi-live2d-display: https://github.com/guansss/pixi-live2d-display
+
+No affiliation with or endorsement by the game developer or publisher.

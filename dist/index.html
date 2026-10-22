@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#121b21"><meta name="description" content="在羽毛与碎光之间，与奏多、萤重逢。millsage 原版动态场景互动体验。">
+<title>millsage · 重逢的间隙</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='32' fill='%23223232'/%3E%3Ctext x='12' y='44' fill='%23eee8dd' font-family='serif' font-style='italic' font-size='44'%3Em%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="style.css">
+</head>
+<body data-state="loading">
+<main id="experience">
+ <section id="home" aria-label="奏多与萤的交汇">
+  <div class="split-glow"></div>
+  <div id="kanata-panel" class="portrait left"><canvas id="kanata-canvas" aria-hidden="true"></canvas></div>
+  <div id="hotaru-panel" class="portrait right"><canvas id="hotaru-canvas" aria-hidden="true"></canvas></div>
+  <div class="portrait-shade"></div><div class="seam"><i></i></div>
+  <button id="choose-kanata" class="choice choice-left" aria-label="走进奏多的时光"><span class="name-block"><small>01 / SAWAMI KANATA</small><strong>泽海<span>奏多</span></strong><span class="choice-hint">走进她的时光 <b>↗</b></span></span></button>
+  <button id="choose-hotaru" class="choice choice-right" aria-label="走进萤的时光"><span class="name-block"><small>02 / SHIOMI HOTARU</small><strong>汐见<span>萤</span></strong><span class="choice-hint">循着她的光芒 <b>↗</b></span></span></button>
+  <div class="home-caption"><span class="eyebrow">BETWEEN TWO WORLDS</span><h1>重逢的间隙</h1><p>同一次呼吸。两个未完的故事。</p></div>
+  <div class="home-bottom"><span>轻触一侧，进入她的世界</span><span class="sync"><i></i> 呼吸相连</span><span>FEATHERS / FRAGMENTS</span></div>
+ </section>
+ <section id="garage" aria-label="millsage 车库" aria-hidden="true"><div id="scene"></div><div class="scene-shade"></div><div class="scene-caption"><span id="scene-kicker" class="eyebrow">A MOMENT TO REMEMBER</span><h2 id="scene-title">奏多的时光</h2><p id="scene-tip">轻触钢琴前的奏多，回到重逢的间隙。</p></div><button id="return" class="return-button">↶ <span>回到交汇处</span><kbd>ESC</kbd></button></section>
+ <canvas id="effects" aria-hidden="true"></canvas><div id="whiteout"></div>
+ <header><a class="brand" href="#" id="brand" aria-label="millsage 首页"><span>BanG Dream!</span><strong>millsage</strong></a><span class="header-center">幸せと、祝福を。</span><nav><button id="motion" aria-label="暂停动态" title="暂停动态">Ⅱ</button><button id="fullscreen" aria-label="全屏" title="全屏">⛶</button><button id="about" aria-label="关于这个作品" title="关于">i</button></nav></header>
+ <div id="loader" role="status"><span class="load-flower">✳</span><strong>millsage</strong><p id="load-label">正在唤醒记忆</p><div class="load-track"><i id="load-bar"></i></div><small id="load-detail">载入原版角色与动态场景</small><button id="retry" hidden>重新载入</button></div>
+ <div id="notice" role="status" aria-live="polite"></div>
+</main>
+<dialog id="about-dialog"><button class="close-dialog" aria-label="关闭">×</button><span class="eyebrow">ABOUT THIS EXPERIENCE</span><h2>在这里，再次相遇。</h2><p>点击奏多，萤化为白色羽毛向上飘散；点击萤，奏多碎成玻璃向下坠落。进入车库后，点击钢琴前的角色，让时空倒转。</p><p>角色与车库使用《BanG Dream! Our Notes》游戏原版资源。网页转场与双人同步呼吸、眨眼为本作品编排。</p><div class="credits"><a href="https://ournotes.stonebg.cn/" target="_blank" rel="noopener">游戏素材与播放器 · OtoNote ↗</a><a href="https://bang-dream.com/artist/millsage/" target="_blank" rel="noopener">BanG Dream! millsage ↗</a><a href="credits.txt" target="_blank">素材与开源声明 ↗</a></div><small>非官方同人互动作品 · 角色及游戏素材版权归原权利人所有</small></dialog>
+<script type="module" src="app.js"></script>
+</body></html>
