@@ -1,0 +1,1215 @@
+{
+  "description": "Original game models, textures, expressions, motion data, and scene packages, captured before mobile performance changes.",
+  "files": [
+    {
+      "path": "assets/hotaru/adv_live2d_hotaru_016_casual_spring_01.moc3",
+      "bytes": 11036032,
+      "sha256": "1668f88f8a1f1aeef24ece5f3487169eec75fdd00224c4b71b80e4d7b4e8ce11"
+    },
+    {
+      "path": "assets/hotaru/adv_live2d_hotaru_016_casual_spring_01.model3.json",
+      "bytes": 7075,
+      "sha256": "c5d9a8c1d8138419d6d0bf215493d8cf000d30de7323b61ada7431301f8ce096"
+    },
+    {
+      "path": "assets/hotaru/adv_live2d_hotaru_016_casual_spring_01.physics3.json",
+      "bytes": 28099,
+      "sha256": "3f9eabbb4df2dd8dcae92d8dfc87a1acb7051ec62efa7dfd2fba82a214e041cc"
+    },
+    {
+      "path": "assets/hotaru/expressions/00-exp_angry01.exp3.json",
+      "bytes": 4338,
+      "sha256": "47ab6aa65e34689931ee511ca81466a9b5b281c8f091ccfd8d36412cbfad6fe0"
+    },
+    {
+      "path": "assets/hotaru/expressions/01-exp_angry02.exp3.json",
+      "bytes": 4351,
+      "sha256": "18ec1bf0cc58910064f48f91b3fb6f2234d8d17c0ae1b2c8d7f3c22197094f48"
+    },
+    {
+      "path": "assets/hotaru/expressions/02-exp_angry03.exp3.json",
+      "bytes": 4338,
+      "sha256": "fd5c9b54031766fd0768104b5c5f97a79b3916178b542f06a016da0a04b4bf5d"
+    },
+    {
+      "path": "assets/hotaru/expressions/03-exp_anxiety01.exp3.json",
+      "bytes": 4364,
+      "sha256": "228637ff97ea99abbdce8b2319915e93051b7ae36846b98d10844755b46b5da7"
+    },
+    {
+      "path": "assets/hotaru/expressions/04-exp_bsmile01.exp3.json",
+      "bytes": 4380,
+      "sha256": "5d8a9fa611ff3aa4d8d6e3c918130c1835d4719cff29bef68d5757f43a410951"
+    },
+    {
+      "path": "assets/hotaru/expressions/05-exp_bsmile02.exp3.json",
+      "bytes": 4380,
+      "sha256": "a8494e488dc88b32ec5356f55c117c5bb3d264bcde6ecef7878e09beceb2d98e"
+    },
+    {
+      "path": "assets/hotaru/expressions/06-exp_cry01.exp3.json",
+      "bytes": 4350,
+      "sha256": "cf0055b074ff7c1937efe56971f407e4321691fb17d3ef29caf0d41524fb0332"
+    },
+    {
+      "path": "assets/hotaru/expressions/07-exp_cry02.exp3.json",
+      "bytes": 4345,
+      "sha256": "0df97e32e85fe24cc6f4f28ab721d75ed7866b3d85d500e0973b8d734e3935b9"
+    },
+    {
+      "path": "assets/hotaru/expressions/08-exp_cry03.exp3.json",
+      "bytes": 4381,
+      "sha256": "9274983a4f14288e46922de29f5596281713c35fd51b786857e991ef759c5d12"
+    },
+    {
+      "path": "assets/hotaru/expressions/09-exp_cry04.exp3.json",
+      "bytes": 4350,
+      "sha256": "85dc7c3c2be5234d2c0d6858090cce307103b9418ba9e62694a9fd008205c14e"
+    },
+    {
+      "path": "assets/hotaru/expressions/10-exp_cry05.exp3.json",
+      "bytes": 4238,
+      "sha256": "755f123ea1a33f9626ac898259594e13f0ebe0265d77c57c93c826e8fc7c51d2"
+    },
+    {
+      "path": "assets/hotaru/expressions/11-exp_cry06.exp3.json",
+      "bytes": 4303,
+      "sha256": "ecb827d9cdea9daa6db5c6efd4aae803fb518ebbfc4bef910859512533b547ac"
+    },
+    {
+      "path": "assets/hotaru/expressions/12-exp_cry07.exp3.json",
+      "bytes": 4309,
+      "sha256": "cdabcbd5f73a6d2e7751954b9acd52851fe3836745e5deb147ba23097dcef092"
+    },
+    {
+      "path": "assets/hotaru/expressions/13-exp_heart01.exp3.json",
+      "bytes": 4300,
+      "sha256": "437d7f6078b6767bebf15bee14c10d1e46a24d6de7b1d586614d2a7a3f899f47"
+    },
+    {
+      "path": "assets/hotaru/expressions/14-exp_idle01.exp3.json",
+      "bytes": 4238,
+      "sha256": "129d1d89e45d65edc4c36853ec4c852a7b6811409e0c7319e3f468146765a28b"
+    },
+    {
+      "path": "assets/hotaru/expressions/15-exp_idle02.exp3.json",
+      "bytes": 4238,
+      "sha256": "3d1a89a660a31321a80229ca21f98326f69411865104a40b5d719b579be487de"
+    },
+    {
+      "path": "assets/hotaru/expressions/16-exp_idle03.exp3.json",
+      "bytes": 4285,
+      "sha256": "8e87437f21090b40d4d7971b21dfc897335315e4e60a39e496906417aff12a69"
+    },
+    {
+      "path": "assets/hotaru/expressions/17-exp_idle04.exp3.json",
+      "bytes": 4309,
+      "sha256": "8bb2501e9e41e528745599d1ca5c6d38c67bb3213eff01950ba0e2f0844e7adf"
+    },
+    {
+      "path": "assets/hotaru/expressions/18-exp_kime01.exp3.json",
+      "bytes": 4320,
+      "sha256": "4f7304b3a56a93f2252f37b5823ba4bae9542a1fff4f9550255936619258bf5f"
+    },
+    {
+      "path": "assets/hotaru/expressions/19-exp_kime02.exp3.json",
+      "bytes": 4352,
+      "sha256": "87f915b6874659d644498cae5d70d7533a9e60f41bbb43d50a6e6c9baa79de8c"
+    },
+    {
+      "path": "assets/hotaru/expressions/20-exp_kirakira01.exp3.json",
+      "bytes": 4300,
+      "sha256": "9f8586d09925b995e94a79c896d1315e6369804b825d8aceffd4702dc852bffa"
+    },
+    {
+      "path": "assets/hotaru/expressions/21-exp_pale01.exp3.json",
+      "bytes": 4334,
+      "sha256": "52675f6bb8c9a44bad388529794adbae5584d61195b3ef672ebf48355eefbb2b"
+    },
+    {
+      "path": "assets/hotaru/expressions/22-exp_pale02.exp3.json",
+      "bytes": 4255,
+      "sha256": "9568be32a718a4b7a2f95b15c86b26b0a0f54359803d0f836adfde27b71e0409"
+    },
+    {
+      "path": "assets/hotaru/expressions/23-exp_panic01.exp3.json",
+      "bytes": 4367,
+      "sha256": "842a925cc881d2d3af16d85d46d51d70e7e467571e9f3c73d2c592de565e92cf"
+    },
+    {
+      "path": "assets/hotaru/expressions/24-exp_panic02.exp3.json",
+      "bytes": 4367,
+      "sha256": "e4939d3df285202a670ad4710cd944a7d995053d1fe4f5260deb085ae7978b48"
+    },
+    {
+      "path": "assets/hotaru/expressions/25-exp_puzzled01.exp3.json",
+      "bytes": 4379,
+      "sha256": "87deb881b8d82183d4ded48ced83ef371469274f02365c8d0a78f11938a319be"
+    },
+    {
+      "path": "assets/hotaru/expressions/26-exp_puzzled02.exp3.json",
+      "bytes": 4379,
+      "sha256": "a33c88049d1b6d3fd0936c0aa13e5b94ca6c9daa2a616542cd4b6c55d6c08b0e"
+    },
+    {
+      "path": "assets/hotaru/expressions/27-exp_question01.exp3.json",
+      "bytes": 4351,
+      "sha256": "aea0803a2da654c8e258b245391f824f0a1f8ec89085aa746406b713f9bf8ac5"
+    },
+    {
+      "path": "assets/hotaru/expressions/28-exp_sad01.exp3.json",
+      "bytes": 4368,
+      "sha256": "d750347d23c937324f60317f8b697d58d58e4c943f18947e1df16c55d0f9853f"
+    },
+    {
+      "path": "assets/hotaru/expressions/29-exp_sad02.exp3.json",
+      "bytes": 4351,
+      "sha256": "96683ae683dc12908d6d3abd1505977b161ec922e249f49e55aeda608fcee522"
+    },
+    {
+      "path": "assets/hotaru/expressions/30-exp_sad03.exp3.json",
+      "bytes": 4367,
+      "sha256": "69d0ff655b9fb21b7be3fb5c32f8f72adb4009463f6893509a77aa3459b3ec58"
+    },
+    {
+      "path": "assets/hotaru/expressions/31-exp_shadow01.exp3.json",
+      "bytes": 4255,
+      "sha256": "0461925c0589fa01f1f208e52bde6d377425ffea2add12ece8dd2f654d045965"
+    },
+    {
+      "path": "assets/hotaru/expressions/32-exp_shy01.exp3.json",
+      "bytes": 4351,
+      "sha256": "388cb9a38a3a443fda33ac6d371030b2cc12d34e15afa0cd33b24132c0b8e439"
+    },
+    {
+      "path": "assets/hotaru/expressions/33-exp_sing01.exp3.json",
+      "bytes": 4322,
+      "sha256": "2f84a0527183d1f59e22a7f6157a5ca23554aa9c821c6ad8dc791299964409bb"
+    },
+    {
+      "path": "assets/hotaru/expressions/34-exp_smile01.exp3.json",
+      "bytes": 4238,
+      "sha256": "52c936590dbe307b4ccb2d4a45b4d6b4bc63c2186b8071f9133564ae0530783c"
+    },
+    {
+      "path": "assets/hotaru/expressions/35-exp_smile02.exp3.json",
+      "bytes": 4350,
+      "sha256": "d18061dbf1e1688ca0882f64058cbec739ab164f828fb6fe55e214beb21be93a"
+    },
+    {
+      "path": "assets/hotaru/expressions/36-exp_smile03.exp3.json",
+      "bytes": 4343,
+      "sha256": "682004813f72e7d9afc41cce890d522096c28a6688e1611fc80bd53bbc239c87"
+    },
+    {
+      "path": "assets/hotaru/expressions/37-exp_smile04.exp3.json",
+      "bytes": 4350,
+      "sha256": "5e0f704c1175fb4a5bb1a5124fd9763570c95b5640f173ac88a3ca075a3a04c4"
+    },
+    {
+      "path": "assets/hotaru/expressions/38-exp_smile05.exp3.json",
+      "bytes": 4238,
+      "sha256": "a4c67da14234fe9841b75fcdfa366770d99675fc0e42291685a94ff7ba290783"
+    },
+    {
+      "path": "assets/hotaru/expressions/39-exp_smile06.exp3.json",
+      "bytes": 4306,
+      "sha256": "5016d9285006c30027d2031d28fe530535b309fbf1a6a09ee1cd81139140cf63"
+    },
+    {
+      "path": "assets/hotaru/expressions/40-exp_smile07.exp3.json",
+      "bytes": 4238,
+      "sha256": "54c3436f423e6d922dd4459f6c5ecf8107c5f16cb938006a6b523f7bf97b8c9f"
+    },
+    {
+      "path": "assets/hotaru/expressions/41-exp_spin01.exp3.json",
+      "bytes": 4380,
+      "sha256": "06064a12c8a386d820de5ebf9c7bfa7f0a809582b3d5dfd162bdf9cf73137652"
+    },
+    {
+      "path": "assets/hotaru/expressions/42-exp_surprised01.exp3.json",
+      "bytes": 4303,
+      "sha256": "1d022026e3d27180cca56a4c15af526d1fa73c60297c6f383a3941ddf27b0823"
+    },
+    {
+      "path": "assets/hotaru/expressions/43-exp_surprised02.exp3.json",
+      "bytes": 4303,
+      "sha256": "2df2445ba759b317247877a45f068f627fd7a29c9436e47305a2020b7ba6846a"
+    },
+    {
+      "path": "assets/hotaru/expressions/44-exp_thinking01.exp3.json",
+      "bytes": 4323,
+      "sha256": "9195697d21a7093e57527e1ee10c57ccb85013d883ef961c9898a8743d13ce37"
+    },
+    {
+      "path": "assets/hotaru/expressions/45-exp_thinking02.exp3.json",
+      "bytes": 4307,
+      "sha256": "7d30522b46dead77ca3ce0cfda727c5116a2138c28239df7476d5dd6bc11d5d8"
+    },
+    {
+      "path": "assets/hotaru/json-bundle-077b085395aa2160551c13f4.json",
+      "bytes": 1158634,
+      "sha256": "077b085395aa2160551c13f4ed8000fd6906031f481423c2c67d65b4c0ed4f80"
+    },
+    {
+      "path": "assets/hotaru/manifest.json",
+      "bytes": 53875,
+      "sha256": "0b404316a8b535eafd6c3a6174d867895f1d0b41bb01912876ff85b606d5f180"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_angry01_C.motion3.json",
+      "bytes": 12065,
+      "sha256": "81ce0007e1a2207e77bc82c0e505df133e621d9a2f2f9c600b88cbe9d6bc309c"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_angry01_L.motion3.json",
+      "bytes": 12069,
+      "sha256": "2a32e03605f9ad64c9c9351b94efea6d1e0e12173682c65d59d0e1d7b8cb1270"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_angry01_R.motion3.json",
+      "bytes": 12096,
+      "sha256": "7878ae860518b7f4e10b91e991a1c74de87c7f21bbff6c5730c71443e0a6fa3b"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_bye01_C.motion3.json",
+      "bytes": 13123,
+      "sha256": "7a642a714b3074744958a57b4aa22779b9a0f7c9b57844bd56dea2118cecf20f"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_bye01_L.motion3.json",
+      "bytes": 13157,
+      "sha256": "42a6d9247be0b9c4ba89570feac98cda054c744046479c1db2d9f5c7ac38159d"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_bye01_R.motion3.json",
+      "bytes": 13142,
+      "sha256": "06e9bfb999b4cb495846c5b1aaba5f59cdfad4b55343d83115ed1cd7272d1c7b"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_check01_C.motion3.json",
+      "bytes": 12918,
+      "sha256": "5e217885d6f37c727e0c4dee1a7faa0ada539dbe3f4bd41308a1a27c2ca2cc3f"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_check01_L.motion3.json",
+      "bytes": 12871,
+      "sha256": "44114dd3fe4a9882a2a268ab7ae3788e99d81e392a2a5e93b3fb668bcf4eda6f"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_check01_R.motion3.json",
+      "bytes": 6564,
+      "sha256": "50ff486862bd6e6e7dbf6ab18e8823e75d64382fd86f836658f2bbcdb0cb33f2"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_cry01_C.motion3.json",
+      "bytes": 13516,
+      "sha256": "df0a97a142f62260ed55152be31bb71ecfa7744c5c7cc9a164134db6cd8ae107"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_cry01_L.motion3.json",
+      "bytes": 13515,
+      "sha256": "b94277dd072b323374c0aac4f8d1f8c8c26f463c3bee751155e3c24ecca94051"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_cry01_R.motion3.json",
+      "bytes": 13548,
+      "sha256": "88cf3e6b41813ce9088ccc3b37f00c07619a60b84394e0f89bcac311bb119366"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_denial01_C.motion3.json",
+      "bytes": 12662,
+      "sha256": "1b2c7dba8cd5b0e7205374821bf9bca0ba0549ae73ef38be2fea87cfb6078ae7"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_denial01_L.motion3.json",
+      "bytes": 12722,
+      "sha256": "cec6ee92c12516909b1dbb5fc87b06aef9419af63b4c5f2b05f162fbe49cd7aa"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_denial01_R.motion3.json",
+      "bytes": 12750,
+      "sha256": "6ccf935d25ea6e4a444de21205e55088da37ce7a952b396963bf340b6409ba5c"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_denial02_C.motion3.json",
+      "bytes": 12697,
+      "sha256": "b521b467d913ce7941e9dc7fa7da56ce904929ddbf95abb61e207985f928d23b"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_denial02_L.motion3.json",
+      "bytes": 12759,
+      "sha256": "28f7054273c00f752afae076e9b15329751119a4ddcd66e00c9710d5e0501bab"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_denial02_R.motion3.json",
+      "bytes": 12781,
+      "sha256": "1e0b2918bf2ca9e67f8397c4464c967b7a00e45b66c32bdae4a5d61e808b7a01"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_idle01_C.motion3.json",
+      "bytes": 11580,
+      "sha256": "40691c7fbad4d48eeee0ca5ab2d7421c6b5a5222eed9c76a238a7ead7ecbd902"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_idle01_L.motion3.json",
+      "bytes": 11597,
+      "sha256": "96b77057cf3f5f204ace7c939d459e56eed40b8880ca4a23f316ea4b5351d3c5"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_idle01_R.motion3.json",
+      "bytes": 11601,
+      "sha256": "b1224aec7117c777d9439eb51ca84645252049e0e830119266218043f1e13cba"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_kime01_C.motion3.json",
+      "bytes": 12931,
+      "sha256": "8f27c81c96b56572ca5bffb3b8a40b8feac59f8c0ed32ffbc4656f5a8dc51d8c"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_kime01_L.motion3.json",
+      "bytes": 13014,
+      "sha256": "179e250069105959a54773e3a7a0da298c47cde1a3356d29ad3d7887823c3e09"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_kime01_R.motion3.json",
+      "bytes": 6691,
+      "sha256": "ac981813abc8ef9dae409858836dfa36ccaed8db08a651255024f385c5306fe2"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_look01_C.motion3.json",
+      "bytes": 13582,
+      "sha256": "b504a777bd02e756318130f319ee84517e26325e448319a9d223f1ceb47f69c2"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_look01_L.motion3.json",
+      "bytes": 13591,
+      "sha256": "96a5e2d0e9220bd13f2d7e341b46cc1f92d4b28c1d58f159295c7ed4d9db1adb"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_look01_R.motion3.json",
+      "bytes": 13622,
+      "sha256": "6bd8058adc78d3d0105336e1ef6b9e68b108c9f31976da875fa243cc9a98017c"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_nervous01_C.motion3.json",
+      "bytes": 13302,
+      "sha256": "8a7da14df070dff79085fc7ae2f828ec41a2883eaf77499133fb5397fe46b7e7"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_nervous01_L.motion3.json",
+      "bytes": 13340,
+      "sha256": "389a9186765d3e2d39142fe0e40de1f7ea26af840916ed6d93554c70983578c5"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_nervous01_R.motion3.json",
+      "bytes": 13323,
+      "sha256": "8234192ff837f37c02f617a7d4f08492696c069642cc4088e66357966e89c86d"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_nod01_C.motion3.json",
+      "bytes": 6027,
+      "sha256": "8d34dccf907cc35cb65fd134ef0d7035092936b0444178ce4f4aba191f95e528"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_nod01_L.motion3.json",
+      "bytes": 12461,
+      "sha256": "52350de147d685541ee52b93495eb419e8bb7d146e105af4eb94f3ff942473b8"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_nod01_R.motion3.json",
+      "bytes": 12472,
+      "sha256": "39cd62c32d10f234b639884a13e6c3d9a053579d1893a4cc48bc2934879c066e"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_nod02_C.motion3.json",
+      "bytes": 12213,
+      "sha256": "dc5090099f7e79201aec09e3bf4fbf1befb4eb085b3061fbff1676f87182305a"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_nod02_L.motion3.json",
+      "bytes": 12275,
+      "sha256": "bb5a0e3e02ffd54712e10dbafec49af67ec29990bd06b5ee5ffef2cc720a8d80"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_nod02_R.motion3.json",
+      "bytes": 6106,
+      "sha256": "bb0c9f57014806e50cd49ba5bb6b0aa9f5d898db969d4ed96d34b3f8ac6c150c"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_nod03_C.motion3.json",
+      "bytes": 5988,
+      "sha256": "1ed62da35997a6bd24594377d37bd5a296e4320b561327170536d61174dfe1ac"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_nod03_L.motion3.json",
+      "bytes": 12403,
+      "sha256": "5564be11f9fe6fdd0c8645d92d385692bfc148bdbdcdb7de9ba5095b31a6a584"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_nod03_R.motion3.json",
+      "bytes": 12410,
+      "sha256": "bfddc4784e4e2f58d28a66528200231fd50db6ee13c753d86786a92f4928882c"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_question01_C.motion3.json",
+      "bytes": 12509,
+      "sha256": "1f9955cda3bb805d8f70f7f28a1b1a7e453d5b061399f23ee48c1186507b6351"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_question01_L.motion3.json",
+      "bytes": 12497,
+      "sha256": "a94c66c7f63c6e0adbd5006b04bf0a2a003cb158bc528ea4f4740b6a3fa74740"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_question01_R.motion3.json",
+      "bytes": 12468,
+      "sha256": "f9211a84b7cd28917cda770b41b123f1a4756037c0401db822440c731d489b24"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_sad01_C.motion3.json",
+      "bytes": 12450,
+      "sha256": "8b5b0cc0d9f506e35dd99b06428492157cb1a5dfe52d6ba8a8152168b4da68d8"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_sad01_L.motion3.json",
+      "bytes": 12468,
+      "sha256": "995093f27110c8702b693e0b4c700ebcde99cb47ee8ce562d1787dc0b1cc43f2"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_sad01_R.motion3.json",
+      "bytes": 12517,
+      "sha256": "895c37911515bb84d1715ca477117c4aaf45bee57bbd6a2ed8a6a472f5569f3a"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_serious01_C.motion3.json",
+      "bytes": 12738,
+      "sha256": "c1f19349f47f9eedbcab066cc0cf33d2de66b8e20fcca65ed8223cab66295040"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_serious01_L.motion3.json",
+      "bytes": 6246,
+      "sha256": "1a2eeb57ac0e4d9bbcee24440d572de015c56b69249e721b430df2f1563c7e6f"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_serious01_R.motion3.json",
+      "bytes": 6230,
+      "sha256": "fe892c82fce49411ce28492203b04d6d5f40330400cfc842b03d355ae3e03d36"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_sing01_C.motion3.json",
+      "bytes": 6612,
+      "sha256": "c0f32a143be31f80fe532b3d2e95fc2c587b6de3d45e174f68243667f5dd6bb8"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_sing01_L.motion3.json",
+      "bytes": 12983,
+      "sha256": "4dc01e70a872bbc8ded29e83cf561acf773b44915f72e3df89181030f43baf74"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_sing01_R.motion3.json",
+      "bytes": 12987,
+      "sha256": "606a6a8809e2b58bd8c44d9c64ec2659daf9d95fe901b33f58c7238d16e44bc5"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_smile01_C.motion3.json",
+      "bytes": 12718,
+      "sha256": "6810f0d54657997f0c642cc31243e74308bb4568b868844926a86b55d2c1d282"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_smile01_L.motion3.json",
+      "bytes": 12724,
+      "sha256": "60bd4aef9689e805ee56724523adf49b97be044203a36b40c41cc5302488e675"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_smile01_R.motion3.json",
+      "bytes": 12729,
+      "sha256": "7a01ecdaa75a521af259d0cd4aa5cfe7246b40aa2a6675b48a3f19d943c135a3"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_smile02_C.motion3.json",
+      "bytes": 12703,
+      "sha256": "ccc8d528fb1d701f7e5f3921c910e518590efb959491dc6ed551ece2cd50dfc4"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_smile02_L.motion3.json",
+      "bytes": 12701,
+      "sha256": "716fb932403527edc838779877fe02dc14f18a9523950eb16bd723e7b05b7c03"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_smile02_R.motion3.json",
+      "bytes": 12691,
+      "sha256": "14e84de1ed9a33c75fab4e0f699f716ad15e9e973ab62c3bf19c54c0751f1652"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_smile03_C.motion3.json",
+      "bytes": 12444,
+      "sha256": "dca45eae959f6f5d7ce57787d8de512b5a970c7415d6dc3edf4b325f5d2dc51f"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_smile03_L.motion3.json",
+      "bytes": 12458,
+      "sha256": "e8b516090745a1fb4fd7e0e666010f5d341c071575c9d1010f6a335e58e0f626"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_smile03_R.motion3.json",
+      "bytes": 12503,
+      "sha256": "70cf1bc46e7d453f06ebdf2d020ee78e49a36c71964afd4d118b8f75720eaf14"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_surprised01_C.motion3.json",
+      "bytes": 12562,
+      "sha256": "dd8e10de96fcaab47f617c1cf7fbb8393792539f62c7f661e23e99b4909138f1"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_surprised01_L.motion3.json",
+      "bytes": 12583,
+      "sha256": "bd73dc7b3723668411f4846aa36c4edd3352a49d21c628748d65b62b6a5a7950"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_surprised01_R.motion3.json",
+      "bytes": 12656,
+      "sha256": "54d8b2c4fa78df57ca747a2c81cd0b646bd4c7da6a89853d54eb13d497d4f286"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_thinking01_C.motion3.json",
+      "bytes": 12777,
+      "sha256": "6f1acf59e577f74aca98437ea8e5ee3e47857d9fbda4e7e1a0a7509aef270dab"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_thinking01_L.motion3.json",
+      "bytes": 12797,
+      "sha256": "656cd3e02800fcc6e7be31d6cf4023e9731f2b6ff77e4cdf5a745e958f2f261a"
+    },
+    {
+      "path": "assets/hotaru/motions/mtn_thinking01_R.motion3.json",
+      "bytes": 12776,
+      "sha256": "f2202403c779a72ed7dcdf76f12e8ca8c55bad20e806b4a16e57b85a55623fd1"
+    },
+    {
+      "path": "assets/hotaru/texture_00.png",
+      "bytes": 1623181,
+      "sha256": "a8d8992d72035e42e77aade86edf2bbc6e4309958fc5727073e54458770b838d"
+    },
+    {
+      "path": "assets/hotaru/texture_01.png",
+      "bytes": 1842049,
+      "sha256": "53d9714d2722fbcf71fd4b66d49937131e9025d8d68a41085af09d39ee0d18f9"
+    },
+    {
+      "path": "assets/immersive/scene-40001-v1/a-3814281662364318628.atlas",
+      "bytes": 11858,
+      "sha256": "28a7301793f10e84bb2fafdabf160181debc1e5486fb908bccf7ed19ae4a3569"
+    },
+    {
+      "path": "assets/immersive/scene-40001-v1/poster.webp",
+      "bytes": 65408,
+      "sha256": "a0567100d01ee28e30b9ac5d3c1e6addd87db173618ce8bb4ae260795733784e"
+    },
+    {
+      "path": "assets/immersive/scene-40001-v1/s--3976496634032501367.json",
+      "bytes": 163527,
+      "sha256": "3f9881f5c234c3ce10a2d2b8f6cae177af9416fd29c7bf336688dd92a99e41e1"
+    },
+    {
+      "path": "assets/immersive/scene-40001-v1/s--4482939900048293723.json",
+      "bytes": 141833,
+      "sha256": "7987f482444efc921de5e7ffffbe996328445d9eb32d004594a3844d9ff0cfdf"
+    },
+    {
+      "path": "assets/immersive/scene-40001-v1/s--5002059616605239083.json",
+      "bytes": 88768,
+      "sha256": "bd3fdd719af4f9c0387d151d721df64c7889f84a7af4776780cf398daddbbf8c"
+    },
+    {
+      "path": "assets/immersive/scene-40001-v1/s--6497783051462061972.json",
+      "bytes": 851,
+      "sha256": "b5f1f1047a2ea31900c68e34c9cfe7989567e1483873e1bd9da337b33eff5629"
+    },
+    {
+      "path": "assets/immersive/scene-40001-v1/s--7093303449290760363.json",
+      "bytes": 82532,
+      "sha256": "c930ae9be21c90b04252c6050b45746409cdeaa841e11329304276f6b3c5df15"
+    },
+    {
+      "path": "assets/immersive/scene-40001-v1/s--973845577850554607.json",
+      "bytes": 14742,
+      "sha256": "6830449185de21b48b6e021ed0f1b82c771d8c6f762b7aa90727280585ec716c"
+    },
+    {
+      "path": "assets/immersive/scene-40001-v1/s-240174078404812764.json",
+      "bytes": 8958,
+      "sha256": "03d4d112e2a6a61be15df42b48f8894ac4fc30ab1a247e0702eddf3f56c29471"
+    },
+    {
+      "path": "assets/immersive/scene-40001-v1/s-4718934879123615834.json",
+      "bytes": 3312,
+      "sha256": "51dc2ddd8c5bd10be3832c5ddabd953812dfbcbb58d5f7b1bd5eba8e90805605"
+    },
+    {
+      "path": "assets/immersive/scene-40001-v1/s-5972706062199774280.json",
+      "bytes": 97564,
+      "sha256": "a90633e8f5d5d99b188897b2ad6ca15800959d0546294655800e206d42f644a0"
+    },
+    {
+      "path": "assets/immersive/scene-40001-v1/scene.json",
+      "bytes": 343267,
+      "sha256": "2840e3fd25c475701833bb6d1ebead8f348a457c84ccbfda6b5de1c82b28704b"
+    },
+    {
+      "path": "assets/immersive/scene-40002-v1/a-6624272005458381472.atlas",
+      "bytes": 15520,
+      "sha256": "01bd4ade51d9afa258b55308ba475c2983e5e630bac7e380b534071ef9d8a027"
+    },
+    {
+      "path": "assets/immersive/scene-40002-v1/poster.webp",
+      "bytes": 64268,
+      "sha256": "dece5fc7cea4be23de67ac99df7d17486613aac89dad0794c73f23d6d099ab90"
+    },
+    {
+      "path": "assets/immersive/scene-40002-v1/s--1739686698570093571.json",
+      "bytes": 851,
+      "sha256": "68bbeca1ec3a9ea742209ea0355fbce9b7b3fd976d9bfa675e4f70b429225f81"
+    },
+    {
+      "path": "assets/immersive/scene-40002-v1/s--1957438679635535659.json",
+      "bytes": 2456,
+      "sha256": "937d3017d6c6da5eb035e8c4ec9414341d66d3958ef9d11bc7ffd64291d07867"
+    },
+    {
+      "path": "assets/immersive/scene-40002-v1/s--2293053285517800815.json",
+      "bytes": 114840,
+      "sha256": "ee42a149c47c40580593ab61360bf70cf1cb6ce69435231df1d70b47792d3645"
+    },
+    {
+      "path": "assets/immersive/scene-40002-v1/s--3686040500654731752.json",
+      "bytes": 124880,
+      "sha256": "6a08a62ca52ff7e77497fa31c63bebbd05b9adf0b5eb383885f5ec52140da96c"
+    },
+    {
+      "path": "assets/immersive/scene-40002-v1/s--5231255929788461005.json",
+      "bytes": 1839,
+      "sha256": "45d64b4880934e645e690fae479642fafede68a6cf05fbe9757bf62dfe802da9"
+    },
+    {
+      "path": "assets/immersive/scene-40002-v1/s-1809526749326195167.json",
+      "bytes": 647,
+      "sha256": "81d264c719b9eac3d70ee4624f10736a75c2f3fe1525a9ba02a0d90f86c68090"
+    },
+    {
+      "path": "assets/immersive/scene-40002-v1/s-3199608495188448831.json",
+      "bytes": 54844,
+      "sha256": "4ca8c765767ae603d2dfa4a8a943d413ea03e916fc0fe4c8c859c24316f54f9a"
+    },
+    {
+      "path": "assets/immersive/scene-40002-v1/s-3732643486850804149.json",
+      "bytes": 121780,
+      "sha256": "2e388c79f2e39f93f36ae9eb8f37fdf1baf5eb13ad210e778ef4989d7ef381b3"
+    },
+    {
+      "path": "assets/immersive/scene-40002-v1/s-3993294847458068817.json",
+      "bytes": 5871,
+      "sha256": "87773e8b4d9b669d09412cb011257943f30fa183528de0877e37072ad25a4703"
+    },
+    {
+      "path": "assets/immersive/scene-40002-v1/s-5186285766812099941.json",
+      "bytes": 120481,
+      "sha256": "4cb2eb4691890cde3fe1eab36df6d64d1e16016f00931d238b6711417545a391"
+    },
+    {
+      "path": "assets/immersive/scene-40002-v1/s-5263109239625473151.json",
+      "bytes": 696,
+      "sha256": "fee625de0a2283413057782403c84a0face0956b2cb7d0a03ff10e65c1ef8c3b"
+    },
+    {
+      "path": "assets/immersive/scene-40002-v1/s-7319791148936472281.json",
+      "bytes": 139836,
+      "sha256": "479acf087ea505f6358c9853ad5547ab6426ba6d33c268b994bd7224f3f7848f"
+    },
+    {
+      "path": "assets/immersive/scene-40002-v1/scene.json",
+      "bytes": 343511,
+      "sha256": "fe379df7151c79958b9ac44de31adbd788dd10cc4456a247f7ab24b1636bb68b"
+    },
+    {
+      "path": "assets/immersive/shared/t--7054694487997149491-f88b40e63215.webp",
+      "bytes": 888832,
+      "sha256": "ec66714a9a73bab2f07d26403afa37bae4079815c2912f4c9d4936ea0f5dc87f"
+    },
+    {
+      "path": "assets/immersive/shared/t-1849847661298247645-3e8ebd341ff7.webp",
+      "bytes": 697284,
+      "sha256": "3bcea911415d03a7691b423990f1fe3dd5d6e188c98b01238ee279cb5e2d4768"
+    },
+    {
+      "path": "assets/immersive/shared/t-3720355173770442854-3e8ebd341ff7.webp",
+      "bytes": 6269436,
+      "sha256": "4e8224a2f908881e0976ba1a3beb06c12df00b352e6ce63776968bcb10885128"
+    },
+    {
+      "path": "assets/immersive/shared/t-3720355173770442854-f88b40e63215.webp",
+      "bytes": 6269436,
+      "sha256": "4e8224a2f908881e0976ba1a3beb06c12df00b352e6ce63776968bcb10885128"
+    },
+    {
+      "path": "assets/kanata/adv_live2d_sub_kanata_school_winter_hs_1st.moc3",
+      "bytes": 12429760,
+      "sha256": "763d0423f877dbd5d938d0d0260f2018824f3d05beb58ff805d4a37cef63e346"
+    },
+    {
+      "path": "assets/kanata/adv_live2d_sub_kanata_school_winter_hs_1st.model3.json",
+      "bytes": 5511,
+      "sha256": "25df30d75dbf4a437e7bb8f9acb7e6a3a42ecfdad77bdef912eb82bcee5b5dd1"
+    },
+    {
+      "path": "assets/kanata/adv_live2d_sub_kanata_school_winter_hs_1st.physics3.json",
+      "bytes": 18440,
+      "sha256": "ee8a8ff0d50b8e49166f2c6466f4c51df81771827edb5a7b5b960f604f4c1ebc"
+    },
+    {
+      "path": "assets/kanata/expressions/00-exp_angry01.exp3.json",
+      "bytes": 3875,
+      "sha256": "d2d941e7f87be19e0f78accd2b105be6fa69e6157de988edc4d2d488fe39999c"
+    },
+    {
+      "path": "assets/kanata/expressions/01-exp_angry02.exp3.json",
+      "bytes": 3917,
+      "sha256": "45f8524bb364d118f72b7c4b9e4ec912f4cac5388341716578f572e244a97c70"
+    },
+    {
+      "path": "assets/kanata/expressions/02-exp_angry03.exp3.json",
+      "bytes": 3917,
+      "sha256": "baf7501562c4436cdbfeb2a93679e6e8f8df2de0527f340fb3c2fc0dc38fce8a"
+    },
+    {
+      "path": "assets/kanata/expressions/03-exp_bsmile01.exp3.json",
+      "bytes": 3879,
+      "sha256": "06b7b7f3d9f5b00cadd9cea25df780cbaf81ea802b93e874f46608e033923662"
+    },
+    {
+      "path": "assets/kanata/expressions/04-exp_bsmile02.exp3.json",
+      "bytes": 3824,
+      "sha256": "93d3dcba1b368845c6e999af8b5d57610504e2a041ff3f0f30a019a5e5243899"
+    },
+    {
+      "path": "assets/kanata/expressions/05-exp_bsmile03.exp3.json",
+      "bytes": 3895,
+      "sha256": "64e586ab571df60abae32c13305d7b8e6dab972e71a43bf979562a440c12dfd6"
+    },
+    {
+      "path": "assets/kanata/expressions/06-exp_bsmile04.exp3.json",
+      "bytes": 3895,
+      "sha256": "dbfd8317f401e156d20e96d5c95998a702c5a2a5fecf0fbefa47e57ad5f1859a"
+    },
+    {
+      "path": "assets/kanata/expressions/07-exp_cry01.exp3.json",
+      "bytes": 3810,
+      "sha256": "227bfbbcd2e028b70d2254a213c1342ca71633a0b01599f50436cb51452b82f5"
+    },
+    {
+      "path": "assets/kanata/expressions/08-exp_dislike01.exp3.json",
+      "bytes": 3875,
+      "sha256": "6cb096f92c125647763403b1e937e42952a0faf199350a19559fade3b2cd94de"
+    },
+    {
+      "path": "assets/kanata/expressions/09-exp_idle01.exp3.json",
+      "bytes": 3747,
+      "sha256": "25224eec7c327b4e5d474fabf27240c6ddeb7adc1367ef5976777167eb1b00a4"
+    },
+    {
+      "path": "assets/kanata/expressions/10-exp_idle02.exp3.json",
+      "bytes": 3747,
+      "sha256": "ad4d8ba558a546d4e8e056f1eae52770bed9ebea7e59126a6ae7649f49ffe268"
+    },
+    {
+      "path": "assets/kanata/expressions/11-exp_idle03.exp3.json",
+      "bytes": 3763,
+      "sha256": "c5dee239db3fb68787e3d137b28395cf91fe9a3b1e583983af5bfb4ef1bb153f"
+    },
+    {
+      "path": "assets/kanata/expressions/12-exp_kime01.exp3.json",
+      "bytes": 3858,
+      "sha256": "26183aa04ad5bc3f41fefa17bdba3d958b9975a6553a110e654b8731c8741200"
+    },
+    {
+      "path": "assets/kanata/expressions/13-exp_kime02.exp3.json",
+      "bytes": 3858,
+      "sha256": "ec7ed71ae7f672a16f7591baed1917189766d27896514923682acb4a61c95a8a"
+    },
+    {
+      "path": "assets/kanata/expressions/14-exp_kirakira01.exp3.json",
+      "bytes": 3813,
+      "sha256": "96f0b9eef4f9737e1222a8e4ebb18ed509f83a038655334d4dd16c28bfb2d5d7"
+    },
+    {
+      "path": "assets/kanata/expressions/15-exp_motivation01.exp3.json",
+      "bytes": 3875,
+      "sha256": "f95bea520fef0b02ce9c28b95cb24a14bc1c4fd5630230f95b0890ed25a06f23"
+    },
+    {
+      "path": "assets/kanata/expressions/16-exp_motivation02.exp3.json",
+      "bytes": 3890,
+      "sha256": "8e0e5a886e1c14a50c5a371adae7c723772894b824fc9c4c5ff113cfa17763ed"
+    },
+    {
+      "path": "assets/kanata/expressions/17-exp_pale01.exp3.json",
+      "bytes": 3858,
+      "sha256": "3ed9874d8e9a7abcb4d8ba14605d6168275b60e9a8aabdfe3934421d086666b3"
+    },
+    {
+      "path": "assets/kanata/expressions/18-exp_pale02.exp3.json",
+      "bytes": 3762,
+      "sha256": "55d1641ee7641498ea00d1dbeb008ee68d6a3e0472896935099e7479db31490a"
+    },
+    {
+      "path": "assets/kanata/expressions/19-exp_panic01.exp3.json",
+      "bytes": 3886,
+      "sha256": "acabb291dbec970f2d4a60f5227949e6cd39d20407aeae4f68cc7f1f445e26f5"
+    },
+    {
+      "path": "assets/kanata/expressions/20-exp_question01.exp3.json",
+      "bytes": 3890,
+      "sha256": "10f28f95d0f6215c6fd512d2132472aac86cf3ba32b11247e39b444dbccf84e9"
+    },
+    {
+      "path": "assets/kanata/expressions/21-exp_sad01.exp3.json",
+      "bytes": 3876,
+      "sha256": "6b43e7516dd3b937ec65e06a5a1b0d1510c37a5c0ba97d6142a30ede1c17f8c5"
+    },
+    {
+      "path": "assets/kanata/expressions/22-exp_sad02.exp3.json",
+      "bytes": 3876,
+      "sha256": "7f63d44f70ed4c0a364b260e7ff42c84083816de76062e4f6169673cb888cd33"
+    },
+    {
+      "path": "assets/kanata/expressions/23-exp_shadow01.exp3.json",
+      "bytes": 3748,
+      "sha256": "d2f060b806f07f18a8a73c797947619bf0336a31e9fe0d4e5f0acb3965ab6915"
+    },
+    {
+      "path": "assets/kanata/expressions/24-exp_shadow02.exp3.json",
+      "bytes": 3762,
+      "sha256": "cf144fffc812b382ab45be143fa8316b4bf0d1ac101556daf16dd83072a3029d"
+    },
+    {
+      "path": "assets/kanata/expressions/25-exp_shy01.exp3.json",
+      "bytes": 3907,
+      "sha256": "a659c58a642877ebb51fc3766b4c907626b713b321e9092e2e252e76bbef04bf"
+    },
+    {
+      "path": "assets/kanata/expressions/26-exp_smile01.exp3.json",
+      "bytes": 3935,
+      "sha256": "42ce5611fb249073d0f5cb7cabaa49238ffa1cdb980945e74c558794f217671e"
+    },
+    {
+      "path": "assets/kanata/expressions/27-exp_smile02.exp3.json",
+      "bytes": 3825,
+      "sha256": "18c96a7e7396d0906163ff3ee47b4288685c9a95fd87a563417457b40de64505"
+    },
+    {
+      "path": "assets/kanata/expressions/28-exp_smile03.exp3.json",
+      "bytes": 3825,
+      "sha256": "a5ab166646efd6bbc149253bcbebdb25816ae3bb7aba7cb8c4e2646b3dc928eb"
+    },
+    {
+      "path": "assets/kanata/expressions/29-exp_surprised01.exp3.json",
+      "bytes": 3843,
+      "sha256": "71bdc396b8c1795a1d043e11a933ec23db6c2abe09cb0e122610d6fa372e1206"
+    },
+    {
+      "path": "assets/kanata/expressions/30-exp_surprised02.exp3.json",
+      "bytes": 3843,
+      "sha256": "eb0f1599e1108179e8919a940b5c633d1dde60b74c68c22926d51c8d8dad1880"
+    },
+    {
+      "path": "assets/kanata/expressions/31-exp_surprised03.exp3.json",
+      "bytes": 3861,
+      "sha256": "011c9ed3a89b0c79da6ac3f53946c57d45e9009a7050e51ca4f35b7422243e3c"
+    },
+    {
+      "path": "assets/kanata/expressions/32-exp_thinking01.exp3.json",
+      "bytes": 3857,
+      "sha256": "eadbf91467a2f89204ffcc7085d49f6f8b78e2a8e9859ebf8cc28b9522be5062"
+    },
+    {
+      "path": "assets/kanata/expressions/33-exp_upset01.exp3.json",
+      "bytes": 3874,
+      "sha256": "86c1e882c6c207b493e3d429773e592c98181a1beb0f0f0f390bbd54d1ce4764"
+    },
+    {
+      "path": "assets/kanata/json-bundle-ed63654f5c191a35018a4a39.json",
+      "bytes": 476378,
+      "sha256": "ed63654f5c191a35018a4a3921ff6d41f87029aac5c5c4137fe0db4cf330586e"
+    },
+    {
+      "path": "assets/kanata/manifest.json",
+      "bytes": 41763,
+      "sha256": "dabeaccdde0d383c228a6f6dd3f80c2b8674e50699252744265c3dc69f59f54f"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_angry01_C.motion3.json",
+      "bytes": 5579,
+      "sha256": "a0f0cab276402b2b8b24fdfaa1e7a353719e58b09f5b650110968119e85df4ff"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_angry01_L.motion3.json",
+      "bytes": 5518,
+      "sha256": "4eed772d03f0d9a315412f7baad9fbfbd791a94d13c6b276a913843dd321c408"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_angry01_R.motion3.json",
+      "bytes": 5597,
+      "sha256": "be801c1fc0211ffbb50b3f16960a876dcb68a0a242b6d5f0e68a1abdeed1ff58"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_bye01_C.motion3.json",
+      "bytes": 5186,
+      "sha256": "14b1ff3dcf8cdd7be8a4b183435708a0d3b8b36fa39ee8faf59bb3c4cf2c460a"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_bye01_L.motion3.json",
+      "bytes": 5191,
+      "sha256": "c6068c1f35f2132b90046b4cf7e90d4fb20ace10bb90c60f2a7c1cbcbd77a66f"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_bye01_R.motion3.json",
+      "bytes": 5218,
+      "sha256": "7f96b1ac317957a48f21b078b4d5019a06c457148c3663be09670898454fc886"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_check01_C.motion3.json",
+      "bytes": 5079,
+      "sha256": "d5d28c8228b55e9158935a2b0e0668d5a298ae5e6f02738f90eac72d9e911586"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_check01_L.motion3.json",
+      "bytes": 5115,
+      "sha256": "91dbc59e1762dd7c02b91ef0473b5d7677b1c743555f7a5d846c711e6c0687e2"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_check01_R.motion3.json",
+      "bytes": 5103,
+      "sha256": "d4c5e088c1940a9e7a2e1980faec86ab92bfa3e31bdf274caea78dcbab3f136c"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_cry01_C.motion3.json",
+      "bytes": 5314,
+      "sha256": "85d767a6efbb1e47ed2797dceedbdc25f41466fc3d2b75093c717514610349c1"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_cry01_L.motion3.json",
+      "bytes": 5318,
+      "sha256": "eed804492d0fb0ac1804fd89574506e0c6b8aa4c4d9ccd49ece6c49d0f320edd"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_cry01_R.motion3.json",
+      "bytes": 5323,
+      "sha256": "506c7e33d22bed6ded9a2c8fa5755ea1a383bfa48c72122770b01ed3b39a92ed"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_denial01_C.motion3.json",
+      "bytes": 4854,
+      "sha256": "f95afcd3bfb5b3b83a1194893f0ed53a0a970b9786600295d8f3592fa681fe25"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_denial01_L.motion3.json",
+      "bytes": 4852,
+      "sha256": "a7f8d2876394c874aebf1a81bbdaa2793b1d9dbdca25f998acbfadd2b490ac97"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_denial01_R.motion3.json",
+      "bytes": 4887,
+      "sha256": "23eb3011a9ca7daed1893f90769af796ef2f1932d4afc9334f5b6a0d81dc5bc8"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_denial02_C.motion3.json",
+      "bytes": 4854,
+      "sha256": "f95afcd3bfb5b3b83a1194893f0ed53a0a970b9786600295d8f3592fa681fe25"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_denial02_L.motion3.json",
+      "bytes": 4852,
+      "sha256": "a7f8d2876394c874aebf1a81bbdaa2793b1d9dbdca25f998acbfadd2b490ac97"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_denial02_R.motion3.json",
+      "bytes": 4887,
+      "sha256": "23eb3011a9ca7daed1893f90769af796ef2f1932d4afc9334f5b6a0d81dc5bc8"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_idle01_C.motion3.json",
+      "bytes": 4441,
+      "sha256": "13bcd819011017b76e023bb9284bae0be90f1a825e36dff41f37c6f139e02021"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_idle01_L.motion3.json",
+      "bytes": 4461,
+      "sha256": "998066e7ba5d5bafccdfc57297c95355823d2a8b2ffeb5d8fba8a2e72acd4b44"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_idle01_R.motion3.json",
+      "bytes": 4476,
+      "sha256": "3ed0de156f3cedab7424574796940213eba814e53c80c1fd70a804c13228fdc8"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_kime01_C.motion3.json",
+      "bytes": 5357,
+      "sha256": "6f0af4cfd26f8d2eb6b1d2ab84fc3eddc1bcd05cc2725a2bdbac37e6ddd082ad"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_kime01_L.motion3.json",
+      "bytes": 5368,
+      "sha256": "e84605830b7fe3732e12bf2452ab4360284f112dd934d7120587a6946bb11b81"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_kime01_R.motion3.json",
+      "bytes": 5431,
+      "sha256": "85216089c7d8a522ceeb5079f904d9096d21ce46a566dc240acae288236e9abc"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_nod01_C.motion3.json",
+      "bytes": 5258,
+      "sha256": "356467fc417c103fdddf0191cb113ef368c4a04a09df44dcc4ef1f7b968d1c43"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_nod01_L.motion3.json",
+      "bytes": 5261,
+      "sha256": "0a448044de93d0ad32af9f355db615a12bc3877ba135df7737beb7c385f5d833"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_nod01_R.motion3.json",
+      "bytes": 5260,
+      "sha256": "f6542a0e65200df800559f5509adff6667a42b68c392ea3ee3004506a9b2c97b"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_nod02_C.motion3.json",
+      "bytes": 5157,
+      "sha256": "bc0785d2f769f2eab05739e8750cbb6ba2369091308d0156951b622ac4bf73f6"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_nod02_L.motion3.json",
+      "bytes": 5200,
+      "sha256": "13a4ee8b68d3f7b429de34e66d098f4edab5c22d70cd0324f9580c5da16d40f6"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_nod02_R.motion3.json",
+      "bytes": 5230,
+      "sha256": "dd8c67dbd5c78b7c8ed60647d17207a7d531ef185f256255451ba10968ba22f4"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_question01_C.motion3.json",
+      "bytes": 5197,
+      "sha256": "2c3b8a0fa9d40673007b371bbc654c33ff15c6131fefd23ddc5a31fa3dcd2564"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_question01_L.motion3.json",
+      "bytes": 5201,
+      "sha256": "258cfcb7223efb7c1998b1e1dfd3c28c5c2baa31ab18b596d06201d7366f1b74"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_question01_R.motion3.json",
+      "bytes": 5200,
+      "sha256": "86d3ba31e1491cd350ddbac7c00a19b8309474af2c4769f8a4119a1d9cb03738"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_sad01_C.motion3.json",
+      "bytes": 4991,
+      "sha256": "926fc9f0ff12a1b59e6cecd977a620f09525d2e700062e40786f0b1c4ab4522f"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_sad01_L.motion3.json",
+      "bytes": 5031,
+      "sha256": "22ac32bc62261f6ec5895bc869a445929539c210b990cbef2e0de8a7839a756e"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_sad01_R.motion3.json",
+      "bytes": 5082,
+      "sha256": "258121f8f14f1b748593df274abe4b18d5b5b9e41e7edcde9d2f0124c0024ad4"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_serious01_C.motion3.json",
+      "bytes": 4984,
+      "sha256": "2179317ec0578c662dc7afa25053e73e582719f62453f0f50904449e56fd1189"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_serious01_L.motion3.json",
+      "bytes": 4999,
+      "sha256": "758e885b98b82873dfb18660d59a11e76ca08791e0e1103b7cffad619f18ae63"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_serious01_R.motion3.json",
+      "bytes": 4981,
+      "sha256": "7d29444c45515225c3e6c72a306e1e6d172e3578f4fdfb3961f9bb2944726c6e"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_smile01_C.motion3.json",
+      "bytes": 4914,
+      "sha256": "3509eca5e2f45c5dff52cdc93b4f28039fc7ca3a8adb0ad004a95da402804dcb"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_smile01_L.motion3.json",
+      "bytes": 4924,
+      "sha256": "912b7bb7b4ce60779ac2dd8e8bc0f1a9cbccab1d97e0165b5a53c95d51251b52"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_smile01_R.motion3.json",
+      "bytes": 4945,
+      "sha256": "2a54f8346cffd229ca30d6acc8fd0900c3706e5690c89ded705e368c79e7fe6c"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_smile02_C.motion3.json",
+      "bytes": 5502,
+      "sha256": "fcb09085b4e0c5a9639bde09a1c4f701819565878dc4dcef1778a717ac7219af"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_smile02_L.motion3.json",
+      "bytes": 5517,
+      "sha256": "c0bd10a70f17dce572d1d2c046dd3a564ee10489360e4441d56fc52e996df618"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_smile02_R.motion3.json",
+      "bytes": 5562,
+      "sha256": "b1b2450106312ed15cf43c6eeb3134fb47f975ffbd368e6a3bfcad700e7e26e2"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_surprised01_C.motion3.json",
+      "bytes": 5436,
+      "sha256": "e84e0dbaca1436f6e0207ca57b785a5d0574dfef5176e2e1c0bd7f685314bd41"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_surprised01_L.motion3.json",
+      "bytes": 5478,
+      "sha256": "b3136275e4759b5ec7b1561e4b660e421dd5abbdf583d2a3a3d375805f49ab89"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_surprised01_R.motion3.json",
+      "bytes": 5461,
+      "sha256": "59f7a7eef0b588699539f89a0d36c434c1f7ca151a9786aaf18058a078e2d9c5"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_thinking01_C.motion3.json",
+      "bytes": 5265,
+      "sha256": "5d1eb845b6b8fbb1d55f0c694ae4db7669bb25b3cde81cae204febf74d5ed6e0"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_thinking01_L.motion3.json",
+      "bytes": 5292,
+      "sha256": "122aea205af833d9d0002c489f0e968a5f55ee6fca7e8ec78a3a6fc7e0d562ea"
+    },
+    {
+      "path": "assets/kanata/motions/mtn_thinking01_R.motion3.json",
+      "bytes": 5307,
+      "sha256": "d0e91f5fe25c58774254966a5b9901cb697aa15a91c66d993a27216a5ab1984f"
+    },
+    {
+      "path": "assets/kanata/texture_00.png",
+      "bytes": 1694374,
+      "sha256": "389f38df6c0021a7a0c28c963cb6d314eb6e78fdc9d24cdf030b3efbb381984b"
+    },
+    {
+      "path": "assets/kanata/texture_01.png",
+      "bytes": 1556940,
+      "sha256": "b3a1543613b0968836818d34fd0a1f740296dd24e7114dfc98a7c83300efd7fb"
+    }
+  ]
+}
