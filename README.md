@@ -2,6 +2,8 @@
 
 以 BanG Dream! millsage 的泽海奏多与汐见萤为主题的非官方互动网站。仓库包含完整网页源码、Live2D 模型、车库场景、贴图、动作与浏览器运行时，运行时无需访问外部素材服务。
 
+在线访问：[millsage · 重逢的间隙](https://StevenYang723.github.io/millsagepage/)
+
 ## 互动
 
 - 主页将奏多与萤的半张脸拼合，呼吸与眨眼同步。
@@ -42,6 +44,8 @@ README.txt         离线使用说明
 ```
 
 ## 静态部署
+
+GitHub Pages 使用 [部署工作流](.github/workflows/pages.yml) 发布 `dist/`。更新 `main` 分支中的网站文件后会自动部署，也可以在仓库的 Actions 页面手动运行 `Deploy GitHub Pages`。
 
 将整个 `dist/` 目录作为网站根目录发布到支持静态文件的托管服务。保留所有文件名、子目录与二进制资源，不需要服务器端代码。
 
